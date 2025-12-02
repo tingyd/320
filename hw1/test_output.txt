@@ -1,0 +1,1 @@
+checking box0x5b8f87a18bf0min_lon: -73.138730, max_lon: -73.107490, max_lat: 40.928950, min_lat: 40.904040
